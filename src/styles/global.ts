@@ -7,6 +7,10 @@ const GlobalCss = createGlobalStyle`
         font-style: normal;
         font-display: auto;
     }
+
+    html {
+        font-size: 16px;
+    }
 `
 
 export default GlobalCss
